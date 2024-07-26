@@ -1,6 +1,7 @@
-# tic_tac_toe
 
-A new Flutter project.
+tic_tac_toe Using getx for state management and custom written sizing class for screen specific sizes, 
+with sound null safety,
+modularized code and better folder struct keeping best practices in mind
 
 ## Getting Started
 ![tic_tac_toe](https://github.com/user-attachments/assets/db0a6c9f-0629-4a84-a215-46e34ea4caab)
